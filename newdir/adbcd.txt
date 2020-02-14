@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Made changes on Local server
-=======
-making changes from Linux academy server
->>>>>>> 931ab43c56bcfca87d1604d1a0131fb9d8325a38
