@@ -69,3 +69,4 @@ async function retrieveNotes(db) {
 }
 
 start()
+### added new line at the end ###
