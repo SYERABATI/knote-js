@@ -1,4 +1,3 @@
-## added comment for git testng ##
 const path = require('path')
 const express = require('express')
 const MongoClient = require('mongodb').MongoClient
@@ -70,4 +69,3 @@ async function retrieveNotes(db) {
 }
 
 start()
-### added new line at the end ###
